@@ -1,1 +1,2 @@
-# Rumor_detection-
+# Rumor_detection
+## Pipeline 
